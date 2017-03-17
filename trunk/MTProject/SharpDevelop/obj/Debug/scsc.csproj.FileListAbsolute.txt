@@ -1,0 +1,5 @@
+C:\local\svn\trunk\MTProject\SharpDevelop\bin\Debug\scsc.exe
+C:\local\svn\trunk\MTProject\SharpDevelop\bin\Debug\scsc.pdb
+C:\local\svn\trunk\MTProject\SharpDevelop\obj\Debug\scsc.csprojResolveAssemblyReference.cache
+C:\local\svn\trunk\MTProject\SharpDevelop\obj\Debug\scsc.exe
+C:\local\svn\trunk\MTProject\SharpDevelop\obj\Debug\scsc.pdb
